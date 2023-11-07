@@ -1,2 +1,2 @@
-# dnanexus_demo
- demo for DNANexus Analysis Platform
+# dnanexus demo
+ Demo for DNANexus Analysis Platform
